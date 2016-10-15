@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Skycons-Swift.xcodeproj">
+      location = "self:Skycons-swift3.xcodeproj">
    </FileRef>
 </Workspace>

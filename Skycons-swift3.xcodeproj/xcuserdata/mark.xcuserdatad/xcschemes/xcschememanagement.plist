@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Skycons-Swift.xcscheme</key>
+		<key>Skycons-swift3.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>E8A50F4C1D147E25006932FC</key>
+		<key>4D480B311DB1B3B800217674</key>
 		<dict>
 			<key>primary</key>
 			<true/>

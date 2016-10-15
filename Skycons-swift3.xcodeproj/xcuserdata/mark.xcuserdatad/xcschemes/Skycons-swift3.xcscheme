@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0730"
+   LastUpgradeVersion = "0800"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E8A50F4C1D147E25006932FC"
-               BuildableName = "Skycons-Swift.app"
-               BlueprintName = "Skycons-Swift"
-               ReferencedContainer = "container:Skycons-Swift.xcodeproj">
+               BlueprintIdentifier = "4D480B311DB1B3B800217674"
+               BuildableName = "Skycons-swift3.app"
+               BlueprintName = "Skycons-swift3"
+               ReferencedContainer = "container:Skycons-swift3.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E8A50F4C1D147E25006932FC"
-            BuildableName = "Skycons-Swift.app"
-            BlueprintName = "Skycons-Swift"
-            ReferencedContainer = "container:Skycons-Swift.xcodeproj">
+            BlueprintIdentifier = "4D480B311DB1B3B800217674"
+            BuildableName = "Skycons-swift3.app"
+            BlueprintName = "Skycons-swift3"
+            ReferencedContainer = "container:Skycons-swift3.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E8A50F4C1D147E25006932FC"
-            BuildableName = "Skycons-Swift.app"
-            BlueprintName = "Skycons-Swift"
-            ReferencedContainer = "container:Skycons-Swift.xcodeproj">
+            BlueprintIdentifier = "4D480B311DB1B3B800217674"
+            BuildableName = "Skycons-swift3.app"
+            BlueprintName = "Skycons-swift3"
+            ReferencedContainer = "container:Skycons-swift3.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E8A50F4C1D147E25006932FC"
-            BuildableName = "Skycons-Swift.app"
-            BlueprintName = "Skycons-Swift"
-            ReferencedContainer = "container:Skycons-Swift.xcodeproj">
+            BlueprintIdentifier = "4D480B311DB1B3B800217674"
+            BuildableName = "Skycons-swift3.app"
+            BlueprintName = "Skycons-swift3"
+            ReferencedContainer = "container:Skycons-swift3.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
