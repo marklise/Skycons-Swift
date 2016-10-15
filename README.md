@@ -6,7 +6,7 @@ I did this so that those wanting to incorporate these works into the latest vers
 
 ## Usage
 
-Create a `SKYIconView`, with a frame in mind. Set the type of weather and color, then use as you would use a UIView. It will be animated by default and the animation can be turned off by setting the new that you have created to pause 
+Create a `SkyconView`, with a frame in mind. Set the type of weather and color, then use as you would use a UIView. It will be animated by default and the animation can be turned off by setting the new that you have created to pause 
 
 ```Swift
 let iconView = SkyconView(frame: frame)
